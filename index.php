@@ -8,4 +8,6 @@
     echo phpinfo();   
 ?>
   </body>
+
+  test he
 </html>
